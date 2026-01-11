@@ -14,7 +14,7 @@ and evaluation using Python and scikit-learn.
 
 ## Files
 - `UserBehaviorModel.ipynb` — Full Jupyter notebook with analysis and model training
-- `datasets/user_behavior_dataset.csv` — Input dataset (optional if large; see usage)
+- `datasets/user_behavior_dataset.csv` — Input dataset
 
 ## Usage
 1. Install required Python packages:
