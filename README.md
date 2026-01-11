@@ -44,4 +44,3 @@ Confusion Matrix:
 
 ## Notes
 - The notebook demonstrates Python proficiency in data handling, machine learning workflows, and model evaluation.
-- If the dataset is too large to upload, download the `user_behavior_dataset.csv` from the original Kaggle source and place it in the `datasets/` folder.
